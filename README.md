@@ -8,7 +8,7 @@
  - [License](#Liscense)
  
  # Description
- A basic calculator based on the QT Creator framework
+ A basic calculator based on the QT Creator framework using C++
  
 # Installation
 In order for the calculator to work, the following requirements are needed below
